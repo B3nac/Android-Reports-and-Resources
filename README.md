@@ -12,7 +12,7 @@
 
 [https://hackerone.com/reports/161710](https://hackerone.com/reports/161710)
 
-###Bypasses
+### Bypasses
 
 #### Two-factor authentication bypass due to vuln endpoint
 
@@ -22,7 +22,7 @@
 
 [https://hackerone.com/reports/205000](https://hackerone.com/reports/205000)
 
-###XSS 
+### XSS 
 
 #### XSS via start ContentActivity
 
