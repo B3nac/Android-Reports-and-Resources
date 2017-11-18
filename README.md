@@ -2,6 +2,8 @@
 
 ### HackerOne Reports
 
+--------
+
 ### Steal files
 
 #### Token leakage due to stolen files via unprotected Activity
@@ -46,11 +48,15 @@
 
 [https://hackerone.com/reports/189793](https://hackerone.com/reports/189793)
 
+--------
+
 ### Privilage Esculation
 
 #### Access protected components via intent
 
 [https://hackerone.com/reports/200427](https://hackerone.com/reports/200427)
+
+--------
 
 ### Intercept Broadcasts
 
