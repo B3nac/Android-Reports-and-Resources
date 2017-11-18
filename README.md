@@ -22,6 +22,8 @@
 
 [https://hackerone.com/reports/161710](https://hackerone.com/reports/161710)
 
+--------
+
 ### Bypasses
 
 #### Two-factor authentication bypass due to vuln endpoint
