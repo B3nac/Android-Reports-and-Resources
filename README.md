@@ -58,6 +58,14 @@
 
 [https://hackerone.com/reports/200427](https://hackerone.com/reports/200427)
 
+#### Fragment injection
+
+[https://hackerone.com/reports/43988](https://hackerone.com/reports/43988)
+
+#### Javascript injection
+
+[https://hackerone.com/reports/54631](https://hackerone.com/reports/54631)
+
 --------
 
 ### Intercept Broadcasts
