@@ -78,7 +78,15 @@
 
 [https://hackerone.com/reports/167481](https://hackerone.com/reports/167481)
 
+#### Vulnerable exported broadcast reciever
+
+[https://hackerone.com/reports/289000](https://hackerone.com/reports/289000)
+
 --------
+
+## Practice Apps
+
+[Insecure banking app that teaches you about insecure implimentations](https://github.com/dineshshetty/Android-InsecureBankv2)
 
 ## Resources
 
