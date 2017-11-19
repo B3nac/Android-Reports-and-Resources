@@ -87,3 +87,11 @@
 [OWASP mobile testing guide](https://github.com/OWASP/owasp-mstg)
 
 [Android Reversing 101](https://www.evilsocket.net/2017/04/27/Android-Applications-Reversing-101/#.WQND0G3TTOM.reddit)
+
+[Detect secret leaks in Android apps online](https://android.fallible.co/)
+
+[Android Security Guidelines](https://developer.box.com/docs/android-security-guidelines)
+
+[Attacking vulnerable Broadcast Recievers](https://manifestsecurity.com/android-application-security-part-18/)
+
+[Android Webview Vulnerabilities](https://pentestlab.blog/2017/02/12/android-webview-vulnerabilities/)
