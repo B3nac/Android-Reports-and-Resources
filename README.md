@@ -18,9 +18,9 @@
 
 [https://hackerone.com/reports/161710](https://hackerone.com/reports/161710)
 
-#### Steal any files via unprotected exported Activity
+#### Steal files due to insecure data storage
 
-[https://hackerone.com/reports/161710](https://hackerone.com/reports/161710)
+[https://hackerone.com/reports/44727](https://hackerone.com/reports/44727)
 
 --------
 
