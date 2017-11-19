@@ -85,3 +85,5 @@
 [OWASP top 10 2016](https://www.owasp.org/index.php/Mobile_Top_10_2016-Top_10)
 
 [OWASP mobile testing guide](https://github.com/OWASP/owasp-mstg)
+
+[Android Reversing 101](https://www.evilsocket.net/2017/04/27/Android-Applications-Reversing-101/#.WQND0G3TTOM.reddit)
