@@ -86,7 +86,9 @@
 
 ## Practice Apps
 
-[Insecure banking app that teaches you about insecure implimentations](https://github.com/dineshshetty/Android-InsecureBankv2)
+#### Android-InsecureBankv2
+
+[Insecure banking app with a lot of insecure implimentations](https://github.com/dineshshetty/Android-InsecureBankv2)
 
 ## Resources
 
