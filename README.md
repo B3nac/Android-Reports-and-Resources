@@ -22,6 +22,10 @@
 
 [https://hackerone.com/reports/44727](https://hackerone.com/reports/44727)
 
+#### Insecure local data storage, makes it easy to steal files
+
+[https://hackerone.com/reports/57918](https://hackerone.com/reports/57918)
+
 --------
 
 ### Bypasses
@@ -74,3 +78,8 @@
 
 [https://hackerone.com/reports/167481](https://hackerone.com/reports/167481)
 
+--------
+
+## Resources
+
+[OWASP top 10 2016](https://www.owasp.org/index.php/Mobile_Top_10_2016-Top_10)
