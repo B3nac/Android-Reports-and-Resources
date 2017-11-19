@@ -95,3 +95,5 @@
 [Attacking vulnerable Broadcast Recievers](https://manifestsecurity.com/android-application-security-part-18/)
 
 [Android Webview Vulnerabilities](https://pentestlab.blog/2017/02/12/android-webview-vulnerabilities/)
+
+[Android reverse engineering recon](https://b3nac.github.io/android/recon/2017/11/10/Setup-and-tips-for-Android-APK-recon.html)
