@@ -90,6 +90,10 @@
 
 [Insecure banking app with a lot of insecure implimentations](https://github.com/dineshshetty/Android-InsecureBankv2)
 
+#### Damn Insecure and Vulnerable app
+
+[Damn Insecure and vulnerable App for Android](https://github.com/payatu/diva-android)
+
 ## Resources
 
 [OWASP top 10 2016](https://www.owasp.org/index.php/Mobile_Top_10_2016-Top_10)
