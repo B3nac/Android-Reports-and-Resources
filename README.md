@@ -92,7 +92,7 @@
 
 #### Damn Insecure and Vulnerable app
 
-[Damn Insecure and vulnerable App for Android](https://github.com/payatu/diva-android)
+[Damn insecure and vulnerable App for Android](https://github.com/payatu/diva-android)
 
 ## Resources
 
