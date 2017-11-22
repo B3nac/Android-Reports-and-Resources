@@ -94,6 +94,9 @@
 
 [Damn insecure and vulnerable App for Android](https://github.com/payatu/diva-android)
 
+#### OWASP-GoatDroid-Project
+[OWASP GoatDroid is a fully functional and self-contained training environment for educating developers and testers on Android security.](https://github.com/jackMannino/OWASP-GoatDroid-Project)
+
 ## Resources
 
 [OWASP top 10 2016](https://www.owasp.org/index.php/Mobile_Top_10_2016-Top_10)
