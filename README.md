@@ -88,14 +88,14 @@
 
 #### Android-InsecureBankv2
 
-[Insecure banking app with a lot of insecure implimentations](https://github.com/dineshshetty/Android-InsecureBankv2)
+[Vulnerable Android application for developers and security enthusiasts to learn about Android insecurities](https://github.com/dineshshetty/Android-InsecureBankv2)
 
 #### Damn Insecure and Vulnerable app
 
-[Damn insecure and vulnerable App for Android](https://github.com/payatu/diva-android)
+[Damn Insecure and vulnerable App for Android](https://github.com/payatu/diva-android)
 
 #### OWASP-GoatDroid-Project
-[OWASP GoatDroid is a fully functional and self-contained training environment for educating developers and testers on Android security.](https://github.com/jackMannino/OWASP-GoatDroid-Project)
+[OWASP GoatDroid is a fully functional and self-contained training environment for educating developers and testers on Android security](https://github.com/jackMannino/OWASP-GoatDroid-Project)
 
 ## Resources
 
