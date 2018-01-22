@@ -68,7 +68,7 @@
 
 #### Access of some not exported content providers
 
-[https://github.com/B3nac/Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources)
+[https://github.com/B3nac/Android-Reports-and-Resources](https://hackerone.com/reports/272044)
 
 #### Access protected components via intent
 
