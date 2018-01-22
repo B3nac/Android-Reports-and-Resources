@@ -66,6 +66,10 @@
 
 ### Privilage Esculation
 
+#### Access of some not exported content providers
+
+[https://github.com/B3nac/Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources)
+
 #### Access protected components via intent
 
 [https://hackerone.com/reports/200427](https://hackerone.com/reports/200427)
