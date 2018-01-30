@@ -64,7 +64,7 @@
 
 --------
 
-### Privilege Esculation
+### Privilege Escalation
 
 #### Access of some not exported content providers
 
