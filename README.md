@@ -63,11 +63,12 @@
 [https://hackerone.com/reports/189793](https://hackerone.com/reports/189793)
 
 --------
-### Intent Spoofing
-
-[https://hackerone.com/reports/97295](https://hackerone.com/reports/97295)
 
 ### Privilege Escalation
+
+#### Intent Spoofing
+
+[https://hackerone.com/reports/97295](https://hackerone.com/reports/97295)
 
 #### Access of some not exported content providers
 
