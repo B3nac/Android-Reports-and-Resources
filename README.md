@@ -58,7 +58,7 @@
 
 [https://hackerone.com/reports/283063](https://hackerone.com/reports/283063)
 
-#### XSS via start ContentActivity
+### XSS via start ContentActivity
 
 [https://hackerone.com/reports/189793](https://hackerone.com/reports/189793)
 
