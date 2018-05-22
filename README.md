@@ -58,11 +58,11 @@
 
 [https://hackerone.com/reports/283063](https://hackerone.com/reports/283063)
 
-### XSS via start ContentActivity
+#### XSS via start ContentActivity
 
 [https://hackerone.com/reports/189793](https://hackerone.com/reports/189793)
 
-### XSS on Owncloud webview
+#### XSS on Owncloud webview
 
 [https://hackerone.com/reports/87835](https://hackerone.com/reports/87835)
 
