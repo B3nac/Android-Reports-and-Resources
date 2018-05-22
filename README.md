@@ -50,7 +50,7 @@
 
 ### XSS 
 
-#### XSS via SAMLAuthActivity (Also Webview could have been implimented insecurely).
+#### XSS via SAMLAuthActivity
 
 [https://hackerone.com/reports/283058](https://hackerone.com/reports/283058)
 
