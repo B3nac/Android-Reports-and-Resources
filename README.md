@@ -68,10 +68,9 @@
 
 --------
 
-
 ### Privilege Escalation
 
-### Intent Spoofing
+#### Intent Spoofing
 
 [https://hackerone.com/reports/97295](https://hackerone.com/reports/97295)
 
