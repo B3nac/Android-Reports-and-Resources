@@ -62,6 +62,10 @@
 
 [https://hackerone.com/reports/189793](https://hackerone.com/reports/189793)
 
+### XSS on Owncloud webview
+
+[https://hackerone.com/reports/87835](https://hackerone.com/reports/87835)
+
 --------
 
 ### Privilege Escalation
