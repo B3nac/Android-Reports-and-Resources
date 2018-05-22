@@ -62,12 +62,18 @@
 
 [https://hackerone.com/reports/189793](https://hackerone.com/reports/189793)
 
+### XSS on Owncloud webview
+
+[https://hackerone.com/reports/87835](https://hackerone.com/reports/87835)
+
 --------
+
+
+### Privilege Escalation
+
 ### Intent Spoofing
 
 [https://hackerone.com/reports/97295](https://hackerone.com/reports/97295)
-
-### Privilege Escalation
 
 #### Access of some not exported content providers
 
