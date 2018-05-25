@@ -140,4 +140,4 @@
 
 [Webview addjavascriptinterface RCE](https://labs.mwrinfosecurity.com/blog/webview-addjavascriptinterface-remote-code-execution/)
 
-[Install PLayStore On Android Emulator](http://leoybkim.com/android/how-to-install-play-store-on-android-emulator/)
+[Install PLayStore On Android Emulator](https://medium.com/@dai_shi/installing-google-play-services-on-an-android-studio-emulator-fffceb2c28a1)
