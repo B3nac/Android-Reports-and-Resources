@@ -139,3 +139,5 @@
 [Android reverse engineering recon](https://b3nac.github.io/android/recon/2017/11/10/Setup-and-tips-for-Android-APK-recon.html)
 
 [Webview addjavascriptinterface RCE](https://labs.mwrinfosecurity.com/blog/webview-addjavascriptinterface-remote-code-execution/)
+
+[Install PLayStore On Android Emulator](http://leoybkim.com/android/how-to-install-play-store-on-android-emulator/)
