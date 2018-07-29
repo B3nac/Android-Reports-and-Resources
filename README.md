@@ -12,6 +12,14 @@
 
 --------
 
+### Session theft
+
+#### Steal user session
+
+[https://hackerone.com/reports/328486](https://hackerone.com/reports/328486)
+
+--------
+
 ### Steal files
 
 #### Token leakage due to stolen files via unprotected Activity
