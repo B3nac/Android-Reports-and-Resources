@@ -4,6 +4,14 @@
 
 --------
 
+### Hardcoded credentials
+
+#### Disclosure of all uploads via hardcoded api secret
+
+[https://hackerone.com/reports/351555](https://hackerone.com/reports/351555)
+
+--------
+
 ### RCE
 
 #### RCE in TinyCards for Android
