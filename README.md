@@ -66,6 +66,10 @@
 
 ### XSS 
 
+#### HTML Injection in BatterySaveArticleRenderer WebView
+
+[https://hackerone.com/reports/176065](https://hackerone.com/reports/176065)
+
 #### XSS via SAMLAuthActivity
 
 [https://hackerone.com/reports/283058](https://hackerone.com/reports/283058)
