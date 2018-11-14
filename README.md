@@ -54,6 +54,10 @@
 
 ### Bypasses
 
+#### Golden techniques to bypass host validations
+
+[https://hackerone.com/reports/431002](https://hackerone.com/reports/431002)
+
 #### Two-factor authentication bypass due to vuln endpoint
 
 [https://hackerone.com/reports/202425](https://hackerone.com/reports/202425)
