@@ -126,6 +126,9 @@
 
 [https://hackerone.com/reports/289000](https://hackerone.com/reports/289000)
 
+#### View every network request response's information
+[https://hackerone.com/reports/56002](https://hackerone.com/reports/56002)
+
 --------
 
 ## Practice Apps
