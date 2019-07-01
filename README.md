@@ -22,7 +22,7 @@
 
 #### RCE in TinyCards for Android
 
-[https://hackerone.com/reports/281605](https://hackerone.com/reports/281605)
+[https://hackerone.com/reports/281605](https://hackerone.com/reports/281605) - TinyCards made this report private. 
 
 --------
 
