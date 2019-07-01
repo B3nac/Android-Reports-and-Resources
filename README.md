@@ -12,6 +12,12 @@
 
 --------
 
+### Insecure deeplinks
+
+#### Sensitive information disclosure
+
+[https://hackerone.com/reports/401793](https://hackerone.com/reports/401793)
+
 ### RCE
 
 #### RCE in TinyCards for Android
