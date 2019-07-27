@@ -26,6 +26,14 @@
 
 --------
 
+### SQL Injection
+
+#### SQL Injection in Content Provider
+
+[https://hackerone.com/reports/291764](https://hackerone.com/reports/291764)
+
+--------
+
 ### Session theft
 
 #### Steal user session
@@ -71,6 +79,14 @@
 #### Another endpoint Auth bypass
 
 [https://hackerone.com/reports/205000](https://hackerone.com/reports/205000)
+
+#### Bypass PIN/Fingerprint lock
+
+[https://hackerone.com/reports/331489](https://hackerone.com/reports/331489)
+
+#### Bypass lock protection
+
+[https://hackerone.com/reports/490946](https://hackerone.com/reports/490946)
 
 --------
 
