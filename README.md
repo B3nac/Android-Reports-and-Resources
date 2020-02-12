@@ -159,6 +159,10 @@
 
 ## Practice Apps
 
+#### InjuredAndroid
+
+[A vulnerable Android application with ctf examples based on bug bounty findings, exploitation concepts, and pure creativity.](https://github.com/B3nac/InjuredAndroid)
+
 #### Android-InsecureBankv2
 
 [Vulnerable Android application for developers and security enthusiasts to learn about Android insecurities](https://github.com/dineshshetty/Android-InsecureBankv2)
