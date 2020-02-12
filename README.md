@@ -22,7 +22,7 @@
 
 #### RCE in TinyCards for Android
 
-[https://hackerone.com/reports/281605](https://hackerone.com/reports/281605) - TinyCards made this report private. 
+[https://hackerone.com/reports/281605](https://hackerone.com/reports/281605) - TinyCards made this report private.
 
 --------
 
@@ -43,6 +43,10 @@
 --------
 
 ### Steal files
+
+#### Vulnerable to local file steal, Javascript injection, Open redirect
+
+[https://hackerone.com/reports/499348](https://hackerone.com/reports/499348)
 
 #### Token leakage due to stolen files via unprotected Activity
 
@@ -90,7 +94,7 @@
 
 --------
 
-### XSS 
+### XSS
 
 #### HTML Injection in BatterySaveArticleRenderer WebView
 
