@@ -142,6 +142,14 @@
 
 --------
 
+### CSRF
+
+#### Deeplink leads to CSRF in follow action
+
+[https://hackerone.com/reports/583987](https://hackerone.com/reports/583987)
+
+---
+
 ### Intercept Broadcasts
 
 #### Possible to intercept broadcasts about file uploads
