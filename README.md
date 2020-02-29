@@ -201,7 +201,7 @@
 
 [Android Webview Vulnerabilities](https://pentestlab.blog/2017/02/12/android-webview-vulnerabilities/)
 
-[Android reverse engineering recon](https://b3nac.github.io/android/recon/2017/11/10/Setup-and-tips-for-Android-APK-recon.html)
+[Android reverse engineering recon](https://b3nac.com/posts/2017-11-10-Setup-and-tips-for-Android-APK-recon.html)
 
 [Webview addjavascriptinterface RCE](https://labs.mwrinfosecurity.com/blog/webview-addjavascriptinterface-remote-code-execution/)
 
