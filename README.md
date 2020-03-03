@@ -92,6 +92,10 @@
 
 [https://hackerone.com/reports/490946](https://hackerone.com/reports/490946)
 
+#### Bypass of biometrics security functionality
+
+[https://hackerone.com/reports/637194](https://hackerone.com/reports/637194)
+
 --------
 
 ### XSS
