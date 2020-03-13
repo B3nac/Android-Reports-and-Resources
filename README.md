@@ -154,6 +154,14 @@
 
 ---
 
+### Case sensitive account collisions
+
+#### overwrite account associated with email via android application
+
+[https://hackerone.com/reports/187714](https://hackerone.com/reports/187714)
+
+---
+
 ### Intercept Broadcasts
 
 #### Possible to intercept broadcasts about file uploads
