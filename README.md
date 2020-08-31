@@ -23,6 +23,7 @@
 #### RCE in TinyCards for Android
 
 [https://hackerone.com/reports/281605](https://hackerone.com/reports/281605) - TinyCards made this report private.
+[https://blog.oversecured.com/Oversecured-automatically-discovers-persistent-code-execution-in-the-Google-Play-Core-Library/](https://blog.oversecured.com/Oversecured-automatically-discovers-persistent-code-execution-in-the-Google-Play-Core-Library/) - Persistent arbitrary code execution in Android's Google Play Core Library: details, explanation and the PoC - CVE-2020-8913
 
 --------
 
@@ -179,6 +180,9 @@
 
 ## Practice Apps
 
+#### Oversecured Vulnerable Android App
+[A vulnerable app showing modern security bugs in Android apps](https://github.com/oversecured/ovaa)
+
 #### InjuredAndroid
 
 [A vulnerable Android application with ctf examples based on bug bounty findings, exploitation concepts, and pure creativity.](https://github.com/B3nac/InjuredAndroid)
@@ -220,3 +224,7 @@
 [Install PLayStore On Android Emulator](https://medium.com/@dai_shi/installing-google-play-services-on-an-android-studio-emulator-fffceb2c28a1)
 
 [Android Bug Bounty Tips](https://medium.com/bugbountyhunting/bug-bounty-hunting-tips-2-target-their-mobile-apps-android-edition-f88a9f383fcc)
+
+[Android: Access to app protected components](https://blog.oversecured.com/Android-Access-to-app-protected-components/)
+
+[Android: arbitrary code execution via third-party package contexts](https://blog.oversecured.com/Android-arbitrary-code-execution-via-third-party-package-contexts/)
