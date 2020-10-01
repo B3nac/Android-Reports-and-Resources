@@ -14,6 +14,9 @@
 
 ### Insecure deeplinks
 
+#### Account Takeover Via DeepLink
+[https://hackerone.com/reports/855618](https://hackerone.com/reports/855618)
+
 #### Sensitive information disclosure
 
 [https://hackerone.com/reports/401793](https://hackerone.com/reports/401793)
