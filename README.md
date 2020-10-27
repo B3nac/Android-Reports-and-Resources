@@ -237,3 +237,5 @@
 [Android: Access to app protected components](https://blog.oversecured.com/Android-Access-to-app-protected-components/)
 
 [Android: arbitrary code execution via third-party package contexts](https://blog.oversecured.com/Android-arbitrary-code-execution-via-third-party-package-contexts/)
+
+[Interception of Android implicit intents](https://blog.oversecured.com/Interception-of-Android-implicit-intents/)
