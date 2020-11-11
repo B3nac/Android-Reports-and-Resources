@@ -21,11 +21,15 @@
 
 [https://hackerone.com/reports/401793](https://hackerone.com/reports/401793)
 
-### RCE
+### RCE/ACE
 
 #### RCE in TinyCards for Android
 
 [https://hackerone.com/reports/281605](https://hackerone.com/reports/281605) - TinyCards made this report private.
+
+#### Persistent arbitrary code execution in Android's Google Play Core Library: details, explanation and the PoC
+
+[https://hackerone.com/reports/971386](https://hackerone.com/reports/971386)
 
 #### CVE-2020-8913: Persistent arbitrary code execution in Google Play Core library
 
