@@ -243,3 +243,5 @@
 [Android: arbitrary code execution via third-party package contexts](https://blog.oversecured.com/Android-arbitrary-code-execution-via-third-party-package-contexts/)
 
 [Interception of Android implicit intents](https://blog.oversecured.com/Interception-of-Android-implicit-intents/)
+
+[Evernote: Universal-XSS, theft of all cookies from all sites, and more](https://blog.oversecured.com/Evernote-Universal-XSS-theft-of-all-cookies-from-all-sites-and-more/)
