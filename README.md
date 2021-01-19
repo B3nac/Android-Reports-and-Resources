@@ -245,3 +245,5 @@
 [Interception of Android implicit intents](https://blog.oversecured.com/Interception-of-Android-implicit-intents/)
 
 [Evernote: Universal-XSS, theft of all cookies from all sites, and more](https://blog.oversecured.com/Evernote-Universal-XSS-theft-of-all-cookies-from-all-sites-and-more/)
+
+[Android: Gaining access to arbitrary* Content Providers](https://blog.oversecured.com/Gaining-access-to-arbitrary-Content-Providers/)
