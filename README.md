@@ -196,6 +196,14 @@
 #### Oversecured Vulnerable Android App
 [A vulnerable app showing modern security bugs in Android apps](https://github.com/oversecured/ovaa)
 
+#### Damn Vulnerable Bank
+
+[Vulnerable Banking Application for Android](https://github.com/rewanth1997/Damn-Vulnerable-Bank)
+
+#### Vuldroid
+
+[Vulnerable Android Application made with security issues](https://github.com/jaiswalakshansh/Vuldroid)
+
 #### InjuredAndroid
 
 [A vulnerable Android application with ctf examples based on bug bounty findings, exploitation concepts, and pure creativity.](https://github.com/B3nac/InjuredAndroid)
