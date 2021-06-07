@@ -63,6 +63,10 @@
 
 ### Steal files
 
+#### How to exploit insecure WebResourceResponse configurations + an example of the vulnerability in Amazon apps
+
+[https://blog.oversecured.com/Android-Exploring-vulnerabilities-in-WebResourceResponse/](https://blog.oversecured.com/Android-Exploring-vulnerabilities-in-WebResourceResponse) - Android: Exploring vulnerabilities in WebResourceResponse
+
 #### Vulnerable to local file steal, Javascript injection, Open redirect
 
 [https://hackerone.com/reports/499348](https://hackerone.com/reports/499348)
