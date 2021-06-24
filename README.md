@@ -209,6 +209,10 @@
 
 [Vulnerable Banking Application for Android](https://github.com/rewanth1997/Damn-Vulnerable-Bank)
 
+#### InsecureShop
+
+[Intentionally Vulnerable Android Application](https://github.com/optiv/InsecureShop)
+
 #### Vuldroid
 
 [Vulnerable Android Application made with security issues](https://github.com/jaiswalakshansh/Vuldroid)
