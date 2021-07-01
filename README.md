@@ -23,6 +23,10 @@
 
 ### RCE/ACE
 
+#### Why dynamic code loading could be dangerous for your apps: a Google example
+
+[https://blog.oversecured.com/Why-dynamic-code-loading-could-be-dangerous-for-your-apps-a-Google-example/](https://blog.oversecured.com/Why-dynamic-code-loading-could-be-dangerous-for-your-apps-a-Google-example/)
+
 #### RCE in TinyCards for Android
 
 [https://hackerone.com/reports/281605](https://hackerone.com/reports/281605) - TinyCards made this report private.
@@ -146,6 +150,10 @@
 --------
 
 ### Privilege Escalation
+
+#### Two weeks of securing Samsung devices: Part 1
+
+[https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-1/](https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-1/)
 
 #### Intent Spoofing
 
