@@ -151,6 +151,14 @@
 
 ### Privilege Escalation
 
+#### Common mistakes when using permissions in Android
+
+[https://blog.oversecured.com/Common-mistakes-when-using-permissions-in-Android/](https://blog.oversecured.com/Common-mistakes-when-using-permissions-in-Android/)
+
+#### Two weeks of securing Samsung devices: Part 2
+
+[https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-2/](https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-2/)
+
 #### Two weeks of securing Samsung devices: Part 1
 
 [https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-1/](https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-1/)
