@@ -12,6 +12,11 @@
 
 --------
 
+### WebView
+
+#### Android security checklist: WebView
+[https://blog.oversecured.com/Android-security-checklist-webview/](https://blog.oversecured.com/Android-security-checklist-webview/)
+
 ### Insecure deeplinks
 
 #### Account Takeover Via DeepLink
