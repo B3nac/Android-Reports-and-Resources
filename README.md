@@ -47,10 +47,20 @@
 #### TikTok: three persistent arbitrary code executions and one theft of arbitrary files
 [https://blog.oversecured.com/Oversecured-detects-dangerous-vulnerabilities-in-the-TikTok-Android-app/](https://blog.oversecured.com/Oversecured-detects-dangerous-vulnerabilities-in-the-TikTok-Android-app/) - Oversecured detects dangerous vulnerabilities in the TikTok Android app
 
+--------
+
 ### Memory corruption
 
 #### Exploiting memory corruption vulnerabilities on Android
 [https://blog.oversecured.com/Exploiting-memory-corruption-vulnerabilities-on-Android/](https://blog.oversecured.com/Exploiting-memory-corruption-vulnerabilities-on-Android/) - Exploiting memory corruption vulnerabilities on Android + an example of such vulnerability in PayPal apps
+
+--------
+
+### Cryptography
+
+#### Use cryptography in mobile apps the right way
+
+[https://blog.oversecured.com/Use-cryptography-in-mobile-apps-the-right-way/](https://blog.oversecured.com/Use-cryptography-in-mobile-apps-the-right-way/)
 
 --------
 
