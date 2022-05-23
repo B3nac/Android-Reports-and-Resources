@@ -82,6 +82,10 @@
 
 ### Steal files
 
+#### Android security checklist: theft of arbitrary files
+
+[https://blog.oversecured.com/Android-security-checklist-theft-of-arbitrary-files/](https://blog.oversecured.com/Android-security-checklist-theft-of-arbitrary-files/)
+
 #### How to exploit insecure WebResourceResponse configurations + an example of the vulnerability in Amazon apps
 
 [https://blog.oversecured.com/Android-Exploring-vulnerabilities-in-WebResourceResponse/](https://blog.oversecured.com/Android-Exploring-vulnerabilities-in-WebResourceResponse) - Android: Exploring vulnerabilities in WebResourceResponse
