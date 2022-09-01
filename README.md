@@ -271,7 +271,11 @@
 [Sieve is a small Password Manager app created to showcase some of the common vulnerabilities found in Android applications.](https://github.com/mwrlabs/drozer/releases/download/2.3.4/sieve.apk)
 
 ## Tools
-[Android Tools & MindMaps](https://github.com/six2dez/pentest-book/blob/master/mobile/android.md)
+[Android - PentestBook](https://github.com/six2dez/pentest-book/blob/master/mobile/android.md)
+
+[Awesome-Android-Security](https://github.com/saeidshirazi/awesome-android-security)
+
+[android-security-awesome](https://github.com/ashishb/android-security-awesome)
 
 ## Resources
 
