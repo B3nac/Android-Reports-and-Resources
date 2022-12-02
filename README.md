@@ -118,6 +118,10 @@
 
 ### Bypasses
 
+#### Accidental $70k Google Pixel Lock Screen Bypass
+
+[https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/](https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/)
+
 #### Golden techniques to bypass host validations
 
 [https://hackerone.com/reports/431002](https://hackerone.com/reports/431002)
@@ -169,6 +173,10 @@
 --------
 
 ### Privilege Escalation
+
+#### Discovering vendor-specific vulnerabilities in Android
+
+[https://blog.oversecured.com/Discovering-vendor-specific-vulnerabilities-in-Android/](https://blog.oversecured.com/Discovering-vendor-specific-vulnerabilities-in-Android/)
 
 #### Common mistakes when using permissions in Android
 
