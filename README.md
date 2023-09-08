@@ -15,11 +15,17 @@
 ### WebView
 
 #### Android security checklist: WebView
+
 [https://blog.oversecured.com/Android-security-checklist-webview/](https://blog.oversecured.com/Android-security-checklist-webview/)
+
+#### Open arbitrary links in WebView
+
+[https://hackerone.com/reports/414101](https://hackerone.com/reports/414101)
 
 ### Insecure deeplinks
 
 #### Account Takeover Via DeepLink
+
 [https://hackerone.com/reports/855618](https://hackerone.com/reports/855618)
 
 #### Sensitive information disclosure
@@ -45,6 +51,7 @@
 [https://blog.oversecured.com/Oversecured-automatically-discovers-persistent-code-execution-in-the-Google-Play-Core-Library/](https://blog.oversecured.com/Oversecured-automatically-discovers-persistent-code-execution-in-the-Google-Play-Core-Library/) - Persistent arbitrary code execution in Android's Google Play Core Library: details, explanation and the PoC - CVE-2020-8913
 
 #### TikTok: three persistent arbitrary code executions and one theft of arbitrary files
+
 [https://blog.oversecured.com/Oversecured-detects-dangerous-vulnerabilities-in-the-TikTok-Android-app/](https://blog.oversecured.com/Oversecured-detects-dangerous-vulnerabilities-in-the-TikTok-Android-app/) - Oversecured detects dangerous vulnerabilities in the TikTok Android app
 
 --------
@@ -52,6 +59,7 @@
 ### Memory corruption
 
 #### Exploiting memory corruption vulnerabilities on Android
+
 [https://blog.oversecured.com/Exploiting-memory-corruption-vulnerabilities-on-Android/](https://blog.oversecured.com/Exploiting-memory-corruption-vulnerabilities-on-Android/) - Exploiting memory corruption vulnerabilities on Android + an example of such vulnerability in PayPal apps
 
 --------
@@ -239,6 +247,7 @@
 [https://hackerone.com/reports/289000](https://hackerone.com/reports/289000)
 
 #### View every network request response's information
+
 [https://hackerone.com/reports/56002](https://hackerone.com/reports/56002)
 
 --------
@@ -246,6 +255,7 @@
 ## Practice Apps
 
 #### Oversecured Vulnerable Android App
+
 [A vulnerable app showing modern security bugs in Android apps](https://github.com/oversecured/ovaa)
 
 #### Damn Vulnerable Bank
@@ -273,12 +283,15 @@
 [Damn Insecure and vulnerable App for Android](https://github.com/payatu/diva-android)
 
 #### OWASP-GoatDroid-Project
+
 [OWASP GoatDroid is a fully functional and self-contained training environment for educating developers and testers on Android security](https://github.com/jackMannino/OWASP-GoatDroid-Project)
 
 #### Sieve mwrlabs
+
 [Sieve is a small Password Manager app created to showcase some of the common vulnerabilities found in Android applications.](https://github.com/mwrlabs/drozer/releases/download/2.3.4/sieve.apk)
 
 ## Tools
+
 [Android - PentestBook](https://github.com/six2dez/pentest-book/blob/master/mobile/android.md)
 
 [Awesome-Android-Security](https://github.com/saeidshirazi/awesome-android-security)
