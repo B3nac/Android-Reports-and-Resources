@@ -174,6 +174,10 @@
 
 ### Privilege Escalation
 
+#### 20 Security Issues Found in Xiaomi Devices
+
+[https://blog.oversecured.com/20-Security-Issues-Found-in-Xiaomi-Devices/](https://blog.oversecured.com/20-Security-Issues-Found-in-Xiaomi-Devices/)
+
 #### Discovering vendor-specific vulnerabilities in Android
 
 [https://blog.oversecured.com/Discovering-vendor-specific-vulnerabilities-in-Android/](https://blog.oversecured.com/Discovering-vendor-specific-vulnerabilities-in-Android/)
