@@ -36,19 +36,12 @@
 
 [https://blog.oversecured.com/Why-dynamic-code-loading-could-be-dangerous-for-your-apps-a-Google-example/](https://blog.oversecured.com/Why-dynamic-code-loading-could-be-dangerous-for-your-apps-a-Google-example/)
 
-#### RCE in TinyCards for Android
-
-[https://hackerone.com/reports/281605](https://hackerone.com/reports/281605) - TinyCards made this report private.
-
-#### Persistent arbitrary code execution in Android's Google Play Core Library: details, explanation and the PoC
-
-[https://hackerone.com/reports/971386](https://hackerone.com/reports/971386)
-
 #### CVE-2020-8913: Persistent arbitrary code execution in Google Play Core library
 
 [https://blog.oversecured.com/Oversecured-automatically-discovers-persistent-code-execution-in-the-Google-Play-Core-Library/](https://blog.oversecured.com/Oversecured-automatically-discovers-persistent-code-execution-in-the-Google-Play-Core-Library/) - Persistent arbitrary code execution in Android's Google Play Core Library: details, explanation and the PoC - CVE-2020-8913
 
 #### TikTok: three persistent arbitrary code executions and one theft of arbitrary files
+
 [https://blog.oversecured.com/Oversecured-detects-dangerous-vulnerabilities-in-the-TikTok-Android-app/](https://blog.oversecured.com/Oversecured-detects-dangerous-vulnerabilities-in-the-TikTok-Android-app/) - Oversecured detects dangerous vulnerabilities in the TikTok Android app
 
 --------
@@ -105,10 +98,6 @@
 #### Steal files due to exported services
 
 [https://hackerone.com/reports/258460](https://hackerone.com/reports/258460)
-
-#### Steal files due to unprotected exported Activity
-
-[https://hackerone.com/reports/161710](https://hackerone.com/reports/161710)
 
 #### Steal files due to insecure data storage
 
