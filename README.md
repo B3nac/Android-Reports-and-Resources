@@ -19,6 +19,10 @@
 
 ### Insecure deeplinks
 
+#### Path traversal in deeplink query parameter
+
+[https://hackerone.com/reports/2553411](https://hackerone.com/reports/2553411)
+
 #### Account Takeover Via DeepLink
 [https://hackerone.com/reports/855618](https://hackerone.com/reports/855618)
 
