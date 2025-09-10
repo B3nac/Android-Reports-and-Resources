@@ -115,10 +115,6 @@
 
 [https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/](https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/)
 
-#### Golden techniques to bypass host validations
-
-[https://hackerone.com/reports/431002](https://hackerone.com/reports/431002)
-
 #### Two-factor authentication bypass due to vuln endpoint
 
 [https://hackerone.com/reports/202425](https://hackerone.com/reports/202425)
@@ -183,21 +179,17 @@
 
 [https://blog.oversecured.com/Common-mistakes-when-using-permissions-in-Android/](https://blog.oversecured.com/Common-mistakes-when-using-permissions-in-Android/)
 
-#### Two weeks of securing Samsung devices: Part 2
-
-[https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-2/](https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-2/)
-
 #### Two weeks of securing Samsung devices: Part 1
 
 [https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-1/](https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-1/)
 
+#### Two weeks of securing Samsung devices: Part 2
+
+[https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-2/](https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-2/)
+
 #### Intent Spoofing
 
 [https://hackerone.com/reports/97295](https://hackerone.com/reports/97295)
-
-#### Access of some not exported content providers
-
-[https://hackerone.com/reports/272044](https://hackerone.com/reports/272044)
 
 #### Access protected components via intent
 
@@ -294,17 +286,9 @@
 
 [Android Reversing 101](https://www.evilsocket.net/2017/04/27/Android-Applications-Reversing-101/#.WQND0G3TTOM.reddit)
 
-[Detect secret leaks in Android apps online](https://android.fallible.co/)
-
 [Android Security Guidelines](https://developer.box.com/docs/android-security-guidelines)
 
-[Attacking vulnerable Broadcast Recievers](https://manifestsecurity.com/android-application-security-part-18/)
-
 [Android Webview Vulnerabilities](https://pentestlab.blog/2017/02/12/android-webview-vulnerabilities/)
-
-[Android reverse engineering recon](https://b3nac.com/posts/2017-11-10-Setup-and-tips-for-Android-APK-recon.html)
-
-[Webview addjavascriptinterface RCE](https://labs.mwrinfosecurity.com/blog/webview-addjavascriptinterface-remote-code-execution/)
 
 [Install PLayStore On Android Emulator](https://medium.com/@dai_shi/installing-google-play-services-on-an-android-studio-emulator-fffceb2c28a1)
 
