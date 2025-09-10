@@ -150,6 +150,10 @@
 
 ### XSS
 
+#### XSS via Metamask Browser due to CSP not being enforced
+
+[https://hackerone.com/reports/1941767](https://hackerone.com/reports/1941767)
+
 #### HTML Injection in BatterySaveArticleRenderer WebView
 
 [https://hackerone.com/reports/176065](https://hackerone.com/reports/176065)
