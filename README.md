@@ -243,7 +243,7 @@
 
 #### Damn Vulnerable Mobile App
 
-[An intentionally vulnerable Flutter app for Android and iOS with findings mapped to OWASP MASVS/MASTG, the Mobile Top 10, and CWE](https://github.com/cpeoples/dvma)
+[Intentionally vulnerable Flutter app for Android and iOS](https://github.com/cpeoples/dvma)
 
 #### Damn Vulnerable Bank
 
