@@ -241,6 +241,10 @@
 #### Oversecured Vulnerable Android App
 [A vulnerable app showing modern security bugs in Android apps](https://github.com/oversecured/ovaa)
 
+#### Damn Vulnerable Mobile App
+
+[Intentionally vulnerable Flutter app for Android and iOS](https://github.com/cpeoples/dvma)
+
 #### Damn Vulnerable Bank
 
 [Vulnerable Banking Application for Android](https://github.com/rewanth1997/Damn-Vulnerable-Bank)
